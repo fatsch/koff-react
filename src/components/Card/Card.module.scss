@@ -1,0 +1,22 @@
+.details {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.button {
+  display: block;
+  padding: 12px 24px;
+  margin: 20px 0;
+  width: 254px;
+  height: 14px;
+  color: #780096;
+  border: 1px solid #780096;
+  border-radius: 32px;
+  border-color: #780096;
+  text-align: center;
+  font-size: 12px;
+  line-height: 1.2;
+}
